@@ -1,0 +1,649 @@
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+
+
+  A_very_nice_molecule_to_be_preocessed.
+
+ ATOMS A
+ 1.0359275    1.41177969    1.244395754
+ 0.630847345    2.24665069    2.26725630
+ 1.16660206    2.9782525    3.53179552
+ END
+
+ ATOMS Y
+ 0.22060150    1.2116667    0.4005908
+ 10.13022015    2.18024660    2.10008927
+ 2.53654221    1.07167023    4.24119139
+ 3.575865    9.76990    2.99950301
+ END
+
+ Lattice
+ 10.80990000    0.50000000    0.07000000
+ 0.8568260    11.90142928    0.00900000
+ -0.8554254   -0.5973163    9.0352641
+ END
+
+
+  Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things hereny lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+
+
+  A_very_nice_molecule_to_be_preocessed.
+
+ ATOMS A
+ 1.0359275    1.41177969    1.244395754
+ 0.630847345    2.24665069    2.26725630
+ 1.16660206    2.9782525    3.53179552
+ 0.22060150    1.2116667    0.4005908
+ 10.13022015    2.18024660    2.10008927
+ 2.53654221    1.07167023    4.24119139
+ END
+
+ ATOMS Y
+ 3.575865    9.76990    2.99950301
+ END
+
+ Lattice
+ 10.80990000    0.50000000    0.07000000
+ 0.8568260    11.90142928    0.00900000
+ -0.8554254   -0.5973163    9.0352641
+ END
+
+
+  Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things hereny lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+
+
+  A_very_nice_molecule_to_be_preocessed.
+
+ ATOMS A
+ 1.0359275    1.41177969    1.244395754
+ END
+
+ ATOMS Y
+ 0.22060150    1.2116667    0.4005908
+ 10.13022015    2.18024660    2.10008927
+ 2.53654221    1.07167023    4.24119139
+ 3.575865    9.76990    2.99950301
+ END
+
+ Lattice
+ 10.80990000    0.50000000    0.07000000
+ 0.8568260    11.90142928    0.00900000
+ -0.8554254   -0.5973163    9.0352641
+ END
+
+
+  Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things hereny lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+
+
+  A_very_nice_molecule_to_be_preocessed.
+
+ ATOMS A
+ 1.0359275    1.41177969    1.244395754
+ END
+
+ ATOMS Y
+ 0.22060150    1.2116667    0.4005908
+ 0.630847345    2.24665069    2.26725630
+ 1.16660206    2.9782525    3.53179552
+ 10.13022015    2.18024660    2.10008927
+ 2.53654221    1.07167023    4.24119139
+ 3.575865    9.76990    2.99950301
+ END
+
+ Lattice
+ 10.80990000    0.50000000    0.07000000
+ 0.8568260    11.90142928    0.00900000
+ -0.8554254   -0.5973163    9.0352641
+ END
+
+
+  Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+
+
+  A_very_nice_molecule_to_be_preocessed.
+ ATOMS z
+ 0.2060150    1.116667    0.005908
+ 10.3022015    2.8024660    2.810008927
+ 2.3654221    1.7167023    4.4119139
+ 3.75865    9.790    2.50301
+ END
+
+ ATOMS Ag
+ 1.359275    1.1177969    1.4439175
+ 0.30847345    2.4665069    2.6725630
+ 1.6660206    2.782525    3.3179552
+ END
+
+ Lattice
+ 10.80990000    0.50000000    0.07000000
+ 0.8568260    11.90142928    0.00900000
+ -0.8554254   -0.5973163    9.0352641
+ END
+
+
+
+  Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+
+
+ ==================================================
+ G E O M E T R Y    I N    X - Y - Z    F O R M A T
+ ==================================================
+
+ b      -1.65725191     3.89018476     2.1547201848
+ b      -4.51218156     4.1862341730     4.1172157583
+ f      -3.98944011     3.1912402775     3.1383835678
+ f       3.777628219     3.1723166125     4.1489970380
+ f       0.44821991     2.1994535351     3.1836527135
+ VEC1    12.309900000     0.000000000     0.0400000000
+ VEC2     0.85682600     9.9429280     0.0030000000
+ VEC3    -0.85542540    -0.59731630     9.53526410
+
+   Total nr. of atoms:         5
+
+
+  Any lines of any other things hereAny lines of any other things here
+
+
+ ==================================================
+ G E O M E T R Y    I N    X - Y - Z    F O R M A T
+ ==================================================
+
+ b      -1.65725191     3.89018476     2.1547201848
+ f       0.44821991     2.1994535351     3.1836527135
+ VEC1    12.309900000     0.000000000     0.0400000000
+ VEC2     0.85682600     9.9429280     0.0030000000
+ VEC3    -0.85542540    -0.59731630     9.53526410
+
+   Total nr. of atoms:         5
+
+
+  Any lines of any other things hereAny lines of any other things here
+
+
+ ==================================================
+ G E O M E T R Y    I N    X - Y - Z    F O R M A T
+ ==================================================
+
+ b      -1.65725191     3.89018476     2.1547201848
+ VEC1    12.309900000     0.000000000     0.0400000000
+ VEC2     0.85682600     9.9429280     0.0030000000
+ VEC3    -0.85542540    -0.59731630     9.53526410
+
+   Total nr. of atoms:         5
+
+
+  Any lines of any other things hereAny lines of any other things here
+
+
+ ==================================================
+ G E O M E T R Y    I N    X - Y - Z    F O R M A T
+ ==================================================
+
+ f       0.44821991     2.1994535351     3.1836527135
+ VEC1    12.309900000     0.000000000     0.0400000000
+ VEC2     0.85682600     9.9429280     0.0030000000
+ VEC3    -0.85542540    -0.59731630     9.53526410
+
+   Total nr. of atoms:         5
+
+
+  Any lines of any other things hereAny lines of any other things here
+
+
+ ==================================================
+ G E O M E T R Y    I N    X - Y - Z    F O R M A T
+ ==================================================
+
+ b      -1.65725191     3.89018476     2.1547201848
+ b      -4.51218156     4.1862341730     4.1172157583
+ f       0.44821991     2.1994535351     3.1836527135
+ VEC1    12.309900000     0.000000000     0.0400000000
+ VEC2     0.85682600     9.9429280     0.0030000000
+ VEC3    -0.85542540    -0.59731630     9.53526410
+
+   Total nr. of atoms:         5
+
+
+  Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+
+
+ ==================================================
+ G E O M E T R Y    I N    X - Y - Z    F O R M A T
+ ==================================================
+
+ b      -1.65725191     3.89018476     2.1547201848
+ f      -3.98944011     3.1912402775     3.1383835678
+ f       3.777628219     3.1723166125     4.1489970380
+ f       0.44821991     2.1994535351     3.1836527135
+ VEC1    12.309900000     0.000000000     0.0400000000
+ VEC2     0.85682600     9.9429280     0.0030000000
+ VEC3    -0.85542540    -0.59731630     9.53526410
+
+   Total nr. of atoms:         5
+
+
+  Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+
+
+ ==================================================
+ G E O M E T R Y    I N    X - Y - Z    F O R M A T
+ ==================================================
+
+ b      -1.65725191     3.89018476     2.1547201848
+ b      -4.51218156     4.1862341730     4.1172157583
+ f      -3.98944011     3.1912402775     3.1383835678
+ f       3.777628219     3.1723166125     4.1489970380
+ f       0.44821991     2.1994535351     3.1836527135
+ b      -1.65725191     3.89018476     2.1547201848
+ b      -4.51218156     4.1862341730     4.1172157583
+ f      -3.98944011     3.1912402775     3.1383835678
+ f       3.777628219     3.1723166125     4.1489970380
+ f       0.44821991     2.1994535351     3.1836527135
+ b      -1.65725191     3.89018476     2.1547201848
+ b      -4.51218156     4.1862341730     4.1172157583
+ f      -3.98944011     3.1912402775     3.1383835678
+ f       3.777628219     3.1723166125     4.1489970380
+ f       0.44821991     2.1994535351     3.1836527135
+ b      -1.65725191     3.89018476     2.1547201848
+ b      -4.51218156     4.1862341730     4.1172157583
+ f      -3.98944011     3.1912402775     3.1383835678
+ f       3.777628219     3.1723166125     4.1489970380
+ f       0.44821991     2.1994535351     3.1836527135
+ b      -1.65725191     3.89018476     2.1547201848
+ b      -4.51218156     4.1862341730     4.1172157583
+ f      -3.98944011     3.1912402775     3.1383835678
+ f       3.777628219     3.1723166125     4.1489970380
+ f       0.44821991     2.1994535351     3.1836527135
+ VEC1    12.309900000     0.000000000     0.0400000000
+ VEC2     0.85682600     9.9429280     0.0030000000
+ VEC3    -0.85542540    -0.59731630     9.53526410
+
+   Total nr. of atoms:         5
+
+
+  Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+
+
+ ==================================================
+ G E O M E T R Y    I N    X - Y - Z    F O R M A T
+ ==================================================
+
+ d      -3.159996977    -0.40230783     2.1987024188
+ d      -1.1570698782    -0.24507336     1.1667665653
+ d      -2.353249950    -4.66214720    -3.1145043936
+ d       2.04811766     2.28549645    -2.1545050937
+ d      -2.909149126    -4.50521571    -0.1671584821
+ D       2.138609411     2.99572444    -0.1075167765
+ g       0.921619313    -0.90428783     0.1429219441
+ g       3.357171034     4.38720829    -2.1909762174
+VEC1    12.309900000     0.000000000     0.0400000000
+ VEC2     0.85682600     9.9429280     0.0030000000
+ VEC3    -0.85542540    -0.59731630     9.53526410
+
+   Total nr. of atoms:         39
+
+  Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+  Coordinates in Geometry Cycle            0
+      Atom              X              Y              Z   (Angstrom)
+       1.z    2.36542210    1.71670230    4.41191390
+       2.z    3.25758650    9.65769900    2.503010
+       3.m    5.71379510    5.5669990    8.17558450
+       4.m    3.29232630    3.32046840    8.106670
+       5.m    5.85897040    5.02237020    0.95274570
+       6.m    3.60897130    4.49108910    0.37591590
+ Lattice Vectors
+ 10.80990000    0.50000000    0.07000000
+ 0.8568260    11.90142928    0.00900000
+ -0.8554254   -0.5973163    9.0352641
+ >>>>
+
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things hereAny lines of any other things here
+Any lines of any other things here
+  Coordinates in Geometry Cycle            0
+      Atom              X              Y              Z   (Angstrom)
+       1.z    2.36542210    1.71670230    4.41191390
+       2.z    3.25758650    9.65769900    2.503010
+       3.m    5.71379510    5.5669990    8.17558450
+       4.m    3.29232630    3.32046840    8.106670
+       5.m    5.85897040    5.02237020    0.95274570
+       6.m    3.60897130    4.49108910    0.37591590
+ Lattice Vectors
+ 10.80990000    0.50000000    0.07000000
+ 0.8568260    11.90142928    0.00900000
+ -0.8554254   -0.5973163    9.0352641
+ >>>>
+
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things hereAny lines of any other things here
+Any lines of any other things here
+  Coordinates in Geometry Cycle            0
+      Atom              X              Y              Z   (Angstrom)
+       1.z    2.36542210    1.71670230    4.41191390
+       6.m    3.60897130    4.49108910    0.37591590
+ Lattice Vectors
+ 10.80990000    0.50000000    0.07000000
+ 0.8568260    11.90142928    0.00900000
+ -0.8554254   -0.5973163    9.0352641
+ >>>>
+
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things hereAny lines of any other things here
+Any lines of any other things here
+  Coordinates in Geometry Cycle            0
+      Atom              X              Y              Z   (Angstrom)
+       1.z    2.36542210    1.71670230    4.41191390
+ Lattice Vectors
+ 10.80990000    0.50000000    0.07000000
+ 0.8568260    11.90142928    0.00900000
+ -0.8554254   -0.5973163    9.0352641
+ >>>>
+
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things hereAny lines of any other things here
+Any lines of any other things here
+  Coordinates in Geometry Cycle            0
+      Atom              X              Y              Z   (Angstrom)
+       6.m    3.60897130    4.49108910    0.37591590
+ Lattice Vectors
+ 10.80990000    0.50000000    0.07000000
+ 0.8568260    11.90142928    0.00900000
+ -0.8554254   -0.5973163    9.0352641
+ >>>>
+
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things hereAny lines of any other things here
+Any lines of any other things here
+  Coordinates in Geometry Cycle            0
+      Atom              X              Y              Z   (Angstrom)
+       1.z    2.36542210    1.71670230    4.41191390
+       2.z    3.25758650    9.65769900    2.503010
+       5.m    5.85897040    5.02237020    0.95274570
+       6.m    3.60897130    4.49108910    0.37591590
+ Lattice Vectors
+ 10.80990000    0.50000000    0.07000000
+ 0.8568260    11.90142928    0.00900000
+ -0.8554254   -0.5973163    9.0352641
+ >>>>
+
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things hereAny lines of any other things here
+Any lines of any other things here
+  Coordinates in Geometry Cycle            0
+      Atom              X              Y              Z   (Angstrom)
+       1.z    2.36542210    1.71670230    4.41191390
+       4.m    3.29232630    3.32046840    8.106670
+       5.m    5.85897040    5.02237020    0.95274570
+       6.m    3.60897130    4.49108910    0.37591590
+ Lattice Vectors
+ 10.80990000    0.50000000    0.07000000
+ 0.8568260    11.90142928    0.00900000
+ -0.8554254   -0.5973163    9.0352641
+ >>>>
+
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+  Coordinates in Geometry Cycle            0
+      Atom              X              Y              Z   (Angstrom)
+       1.i    1.53277000    1.947256230    6.08558770
+       2.i    8.062878660    2.679832790    3.92834490
+       3.j    2.963322050    3.226905860    4.801332660
+       4.j    0.20930910    2.404472240    5.4565250
+ Lattice Vectors
+ 10.80990000    0.50000000    0.07000000
+ 0.8568260    11.90142928    0.00900000
+ -0.8554254   -0.5973163    9.0352641
+ >>>>
+ Any lines of any other things here
+Any lines of any other things here
+  Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+  Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+  Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+  Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+  Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+  Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+  Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+  Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
+Any lines of any other things here
